@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContextualModel</string>
+    <string name="ticker">wifi接続しました</string>
+    <string name="job_ssid">工作SSID</string>
+    <string name="unjob_ssid">休息SSID</string>
+    <string name="startTime">开始时间</string>
+    <string name="save">save</string>
+    <string name="gps">GPS</string>
+    <string name="time">Time</string>
+    <string name="wifi">WIFI</string>
+    <string name="endtime">结束时间</string>
+</resources>
